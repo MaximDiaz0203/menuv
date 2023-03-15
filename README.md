@@ -106,7 +106,7 @@ item:On(event: string, callback: function);
 ```
 
 ## License
-Project is written by **[ThymonA](https://github.com/MaximDiaz0203/)** and published under
+Project is Edited by **[Maxim Diaz](https://github.com/MaximDiaz0203/)** and published under
 **GNU General Public License v3.0**
 [Read License](https://github.com/MaximDiaz0203/menuv/blob/master/LICENSE)
 
